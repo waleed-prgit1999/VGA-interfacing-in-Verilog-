@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\psf\Desktop\Sem 7\Digital System Design\Lab\haswal-labs\Cartroon_on_Monitor\vga_top.ncd
+OUTFILE=C:\Users\psf\Desktop\Sem 7\Digital System Design\Lab\haswal-labs\Cartroon_on_Monitor\vga_top.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\psf\Desktop\Sem 7\Digital System Design\Lab\haswal-labs\Cartroon_on_Monitor
+LICENSE=WebPack
+USER_INFO=__0_0_0

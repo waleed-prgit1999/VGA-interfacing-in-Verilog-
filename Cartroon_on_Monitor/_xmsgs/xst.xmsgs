@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="Xst" num="2211" delta="old" >&quot;<arg fmt="%s" index="1">ipcore_dir/rom_2.v</arg>&quot; line <arg fmt="%d" index="2">47</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">rom_2</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="646" delta="old" >Signal &lt;<arg fmt="%s" index="1">video_on</arg>&gt; is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">S_red</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">S_green</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="1780" delta="old" >Signal &lt;<arg fmt="%s" index="1">S_blue</arg>&gt; is never used or assigned. This unconnected signal will be trimmed during the optimization process.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_col_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">vga_driver/pixel_row_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">vga_top</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

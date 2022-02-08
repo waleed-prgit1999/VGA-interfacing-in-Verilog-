@@ -1,0 +1,6 @@
+MO vga_sync NULL vga_sync.v vlg62/vga__sync.bin 1640860317
+MO MY_ROM2 NULL ipcore_dir/MY_ROM2.v vlg05/_m_y___r_o_m2.bin 1640858650
+MO MY_ROM NULL ipcore_dir/MY_ROM.v vlg77/_m_y___r_o_m.bin 1639376914
+MO controller NULL controller.v vlg54/controller.bin 1640860317
+MO rom_2 NULL ipcore_dir/rom_2.v vlg37/rom__2.bin 1640860317
+MO vga_top NULL vga_top.v vlg1C/vga__top.bin 1640860317
